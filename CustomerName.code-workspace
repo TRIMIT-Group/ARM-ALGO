@@ -1,23 +1,26 @@
 {
-    "folders": [
-        {
-            "name": "AL-Go",
-            "path": ".AL-Go"
-        },
-        {
-            "name": "App",
-            "path": "app"
-        },
-        {
-            "name": "Test",
-            "path": "test"
-        }
-    ],
-    "settings": {
-        "ev-tools.useIsolationType": "hyperv",
-        "ev-tools.containerCountry": "w1",
-        "ev-tools.includeTestToolkitOnNewContainer": true,
-        "ev-tools.testLibrariesOnlyOnNewContainer": true,
-        "ev-tools.typeOnNewContainer": "Sandbox"
+  "folders": [
+    {
+      "name": "AL-Go",
+      "path": ".AL-Go"
+    },
+    {
+      "name": "App",
+      "path": "app"
+    },
+    {
+      "name": "Test",
+      "path": "test"
+    },
+    {
+      "path": "ARM-ALGO.test"
     }
+  ],
+  "settings": {
+    "ev-tools.useIsolationType": "hyperv",
+    "ev-tools.containerCountry": "w1",
+    "ev-tools.includeTestToolkitOnNewContainer": true,
+    "ev-tools.testLibrariesOnlyOnNewContainer": true,
+    "ev-tools.typeOnNewContainer": "Sandbox"
+  }
 }

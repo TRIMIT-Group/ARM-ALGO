@@ -1,6 +1,11 @@
 {
   "country": "w1",
-  "appFolders": ["app"],
-  "testFolders": ["test"],
+  "appFolders": [
+    "app"
+  ],
+  "testFolders": [
+    "test",
+    "ARM-ALGO.test"
+  ],
   "bcptTestFolders": []
 }
