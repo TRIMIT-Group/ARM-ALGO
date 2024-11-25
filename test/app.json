@@ -18,6 +18,12 @@
       "version": "24.24.0.0"
     },
     {
+      "id": "2fc5ddd0-5274-4e7c-af36-cf7ce9a15c8b",
+      "name": "TRIMIT Data and Test",
+      "publisher": "TRIMIT Development A/S",
+      "version": "24.2.1.0"
+    },
+    {
       "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
       "name": "Tests-TestLibraries",
       "publisher": "Microsoft",
