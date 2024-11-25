@@ -1,0 +1,19 @@
+{
+    "al.ruleSetPath": "./custom.ruleset.json",
+    "alOutline.codeActionsOnSave": [
+        "SortProperties",
+        "SortReportColumns",
+        "SortVariables",
+    ],
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}",
+        "${PerTenantExtensionCop}"
+    ],
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.FileNamePattern": "<ObjectNameShort>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.al",
+    "CRS.ObjectNameSuffix": "_PTE",
+    "CRS.RemoveSuffixFromFilename": true
+}

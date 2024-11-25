@@ -1,0 +1,41 @@
+{
+  "id": "a0b8abeb-92fa-453f-949c-fd1e39916b6a",
+  "name": "CustomerName Customizations",
+  "publisher": "TRIMIT DK A/S",
+  "version": "24.24.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "logo\\logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 59999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "target": "Cloud",
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "internalsVisibleTo": [
+    {
+      "id":  "c403065a-faa5-4914-8141-109b68ad46a4",
+      "name": "CustomerName Customizations Test App",
+      "publisher": "TRIMIT DK A/S"
+    }
+  ]
+}
