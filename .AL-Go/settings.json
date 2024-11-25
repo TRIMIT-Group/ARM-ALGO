@@ -1,6 +1,6 @@
 {
   "country": "w1",
-  "appFolders": ["app"],
-  "testFolders": ["test"],
+  "appFolders": ["CustomerName"],
+  "testFolders": ["CustomerName.Test"],
   "bcptTestFolders": []
 }
