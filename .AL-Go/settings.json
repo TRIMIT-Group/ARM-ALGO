@@ -4,8 +4,7 @@
     "app"
   ],
   "testFolders": [
-    "test",
-    "CustomerTest.Test"
+    "app.Test"
   ],
   "bcptTestFolders": []
 }
