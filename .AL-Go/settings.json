@@ -11,7 +11,7 @@
     {
         "repo": "https://github.com/TRIMIT-Group/TRIMIT_BASE_THE",
         "version": "latest",
-        "release_status": "prerelease",
+        "release_status": "release",
         "authTokenSecret": "GHTOKENWORKFLOW",
         "projects": "*"
     }
