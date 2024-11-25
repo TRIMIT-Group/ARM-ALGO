@@ -5,12 +5,12 @@
             "path": ".AL-Go"
         },
         {
-            "name": "CustomerName",
-            "path": "CustomerName"
+            "name": "App",
+            "path": "app"
         },
         {
-            "name": "CustomerName tests",
-            "path": "CustomerName.Test"
+            "name": "Test",
+            "path": "test"
         }
     ],
     "settings": {
