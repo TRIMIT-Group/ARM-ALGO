@@ -12,6 +12,12 @@
   "logo": "",
   "dependencies": [
     {
+      "id":  "a0b8abeb-92fa-453f-949c-fd1e39916b6a",
+      "name": "CustomerName Customizations",
+      "publisher": "TRIMIT DK A/S",
+      "version": "24.24.0.0"
+    },
+    {
       "publisher": "Microsoft",
       "name": "Library Assert",
       "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
