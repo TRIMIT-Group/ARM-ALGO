@@ -1,6 +1,4 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "useCompilerFolder": false,
-  "doNotPublishApps": false
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main"
 }
