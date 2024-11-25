@@ -10,7 +10,7 @@
     },
     {
       "name": "Test",
-      "path": "app.Test"
+      "path": "test"
     }
   ],
   "settings": {

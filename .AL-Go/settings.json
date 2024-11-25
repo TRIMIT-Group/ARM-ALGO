@@ -1,10 +1,10 @@
 {
-  "country": "w1",
+  "country": "W1",
   "appFolders": [
     "app"
   ],
   "testFolders": [
-    "app.Test"
+    "test/src"
   ],
   "bcptTestFolders": []
 }
