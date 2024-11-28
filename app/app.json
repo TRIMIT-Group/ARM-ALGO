@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "logo\\logo.png",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "94927c12-6061-4e3f-b07d-ce1b66584585",
+      "publisher": "TRIMIT Development A/S",
+      "name": "TRIMIT",
+      "version": "24.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "24.0.0.0",
   "application": "24.0.0.0",
@@ -33,7 +40,7 @@
   ],
   "internalsVisibleTo": [
     {
-      "id":  "c403065a-faa5-4914-8141-109b68ad46a4",
+      "id": "c403065a-faa5-4914-8141-109b68ad46a4",
       "name": "CustomerName Customizations Test App",
       "publisher": "TRIMIT DK A/S"
     }

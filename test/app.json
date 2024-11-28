@@ -58,6 +58,12 @@
       "name": "Any",
       "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
       "version": "24.0.0.0"
+    },
+    {
+      "id": "94927c12-6061-4e3f-b07d-ce1b66584585",
+      "publisher": "TRIMIT Development A/S",
+      "name": "TRIMIT",
+      "version": "24.0.0.0"
     }
   ],
   "screenshots": [],
