@@ -1,6 +1,19 @@
 {
-  "country": "w1",
-  "appFolders": ["app"],
-  "testFolders": ["test"],
-  "bcptTestFolders": []
+  "country": "W1",
+  "appFolders": [
+    "app"
+  ],
+  "testFolders": [
+    "test"
+  ],
+  "bcptTestFolders": [],
+  "appDependencyProbingPaths":  [
+    {
+        "repo": "https://github.com/TRIMIT-Group/TRIMIT_BASE_THE",
+        "version": "latest",
+        "release_status": "release",
+        "authTokenSecret": "GHTOKENWORKFLOW",
+        "projects": "*"
+    }
+]
 }
